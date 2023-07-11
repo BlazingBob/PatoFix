@@ -6,11 +6,11 @@ The Patofix app is a coding challenge project developed to showcase my skills in
 ## Features
 
 - **ChatGPT API Integration**: The app seamlessly integrates with the ChatGPT API, providing users with interactive code explanations and guidance.
-- **Voice Recordings**: Users can access voice recordings that explain code concepts and provide step-by-step instructions, enhancing the learning experience.
-- **Vibrant Community**: PatoFix fosters a supportive community where users can interact, collaborate, and learn from each other.
+- **Voice Recordings**: Users can make voice recordings to explain code concepts to themselves and debug their code.
+- **Vibrant Community**: PatoFix fosters a supportive community where users can interact, and learn from each other.
 - **Comprehensive Lessons**: The app offers a wide range of lessons that cover various programming topics, enabling users to expand their knowledge and skills.
-- **Front-End Development Focus**: As a Full Stack Developer specializing in front-end development, I played a key role in utilizing PatoFix to improve junior developers' understanding of code flows.
-- **Code Confidence**: By leveraging the power of the ChatGPT API, voice recordings, and the vibrant community, PatoFix empowers team members to write code with confidence.
+- **Front-End Development Focus**: As a Full Stack Developer, I utilized PatoFix to improve my UI/UX and front-end development skills while contributing to the project.
+- **Code Confidence**: By leveraging the power of the ChatGPT API, voice recordings, and the vibrant community, PatoFix empowers junior developers to write code confidently.
 
 ## Learn More
 
